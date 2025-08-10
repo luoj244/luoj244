@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Jordan Luong and I'm a Front-End Developer from Michigan!</h2>
+<h2 align="left">Hi 👋! My name is Jordan Luong and I'm a Web Developer from Michigan!</h2>
 
 ###
 
